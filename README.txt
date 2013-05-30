@@ -1,6 +1,6 @@
 Zshopt is licensed under the GPLv3. A copy of this license was provived in the repo www.github.com/larz258/Zshopt as LICENSE.txt.
 
-This script allows you to use the 'shopt' command in zsh (or other bash like shells). q
+This script allows you to use the 'shopt' command in zsh (or other bash like shells).
 To use this, simple add the shopt script to a location on your $PATH.
 (I suggest /usr/bin)
 Then add the following line to your .zshrc
