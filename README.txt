@@ -1,4 +1,4 @@
-Zshopt is licensed under The MIT Licens
+Zshopt is licensed under The MIT License.
 A copy of this license was provived in the repo www.github.com/larz258/Zshopt as LICENSE.
 
 This script allows you to use the 'shopt' command in zsh (or other bash like shells).
